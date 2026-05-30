@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokè&amp;Scan</string>
+    <!-- Sostituito automaticamente da google-services.json dopo la configurazione Firebase -->
+    <string name="default_web_client_id">PLACEHOLDER_REPLACE_WITH_FIREBASE_WEB_CLIENT_ID</string>
+</resources>

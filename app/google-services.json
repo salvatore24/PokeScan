@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384908323783",
+    "project_id": "poke-scan-535d0",
+    "storage_bucket": "poke-scan-535d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384908323783:android:45bc4864c567ce32b507e2",
+        "android_client_info": {
+          "package_name": "com.SalvoLab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICix1oATpyJFCYX7ulXNkoZGpZoptKzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
